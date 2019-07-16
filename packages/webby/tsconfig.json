@@ -9,9 +9,7 @@
       "es2017",
       "dom",
       "esnext.asynciterable"
-    ],
-
-    "declaration": true
+    ]
   },
   "include": ["src/**/*"],
   "exclude": ["node_modules", "build", "scripts"]
