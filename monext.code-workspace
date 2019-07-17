@@ -8,6 +8,9 @@
     },
     {
       "path": "packages/webby"
+    },
+    {
+      "path": "apps/api"
     }
   ],
   "settings": {
